@@ -1,4 +1,13 @@
+html {
+    font-family: "Fira Code", serif;
+}
+
 .selfPhoto {
     height: 380px;
     width: 700px;
+    margin-left: 10%;
+}
+
+h1 {
+    text-align: center;
 }
